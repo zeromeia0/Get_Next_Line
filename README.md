@@ -18,5 +18,3 @@
      
    - To read lines from terminal, change the main in main.c and run
      ```./gnl```
-
-   Make sure to update main.c to open your desired file or use the terminal input version.
