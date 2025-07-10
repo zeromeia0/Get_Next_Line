@@ -12,8 +12,11 @@
 
 3. Run the executable
 
-   - To read lines from a file:
+   - To read lines from a file (by dafult you have teste.txt):
 
+     ```./gnl <your file>```
+     
+   - To read lines from terminal, change the main in main.c and run
      ```./gnl```
 
    Make sure to update main.c to open your desired file or use the terminal input version.
